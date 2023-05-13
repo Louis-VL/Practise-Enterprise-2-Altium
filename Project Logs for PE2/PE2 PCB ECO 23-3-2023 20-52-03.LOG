@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetU2_12 New Net Name=TX_N
+Change Net Name : Old Net Name=NetU2_13 New Net Name=RX_P
+Added Pin To Net: NetName=USB_N Pin=D2-3
+Added Pin To Net: NetName=USB_N Pin=D2-4
+Added Pin To Net: NetName=USB_N Pin=J1-2
+Added Pin To Net: NetName=USB_N Pin=U3-2
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=D2-1
+Added Pin To Net: NetName=USB_P Pin=D2-6
+Added Pin To Net: NetName=USB_P Pin=J1-3
+Added Pin To Net: NetName=USB_P Pin=U3-1
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB

@@ -1,0 +1,65 @@
+Net Status Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\Practise-Enterprise-2-Altium\PE2.PcbDoc
+Date         : 24-3-2023
+Time         : 16:44:35
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3V, Signal Layers Only, 188.0377mm
+    5V, Signal Layers Only, 16.9236mm
+    ANT1, Signal Layers Only, 1.1042mm
+    ANT2, Signal Layers Only, 0.9247mm
+    BEL, Signal Layers Only, 47.0153mm
+    BUZZ, Signal Layers Only, 10.3642mm
+    GND, Signal Layers Only, 21.1722mm
+    I2C1_SCL, Signal Layers Only, 24.3595mm
+    I2C1_SDA, Signal Layers Only, 24.8149mm
+    LED1, Signal Layers Only, 18.3816mm
+    LED2, Signal Layers Only, 20.8021mm
+    NetANT1_1, Signal Layers Only, 5.6747mm
+    NetC10_2, Signal Layers Only, 6.5698mm
+    NetC11_2, Signal Layers Only, 5.0703mm
+    NetC12_1, Signal Layers Only, 2.1241mm
+    NetC12_2, Signal Layers Only, 1.025mm
+    NetC1_2, Signal Layers Only, 5.2645mm
+    NetC5_2, Signal Layers Only, 7.7697mm
+    NetC9_2, Signal Layers Only, 1.6203mm
+    NetD1_1, Signal Layers Only, 10.8023mm
+    NetD3_1, Signal Layers Only, 0mm
+    NetD5_1, Signal Layers Only, 4.4469mm
+    NetD6_1, Signal Layers Only, 2.3145mm
+    NetD7_1, Signal Layers Only, 2.3371mm
+    NetD8_1, Signal Layers Only, 2.8286mm
+    NetD9_1, Signal Layers Only, 2.6628mm
+    NetFB1_1, Signal Layers Only, 3.7701mm
+    NetJ2_2, Signal Layers Only, 14.3298mm
+    NetLS1_2, Signal Layers Only, 5.1462mm
+    NetP2_3, Signal Layers Only, 3.1899mm
+    NetQ1_2, Signal Layers Only, 28.3146mm
+    NetR10_2, Signal Layers Only, 1.8114mm
+    NetR13_1, Signal Layers Only, 2.0233mm
+    NetR15_2, Signal Layers Only, 2.0296mm
+    NetR18_2, Signal Layers Only, 55.1055mm
+    NetR3_2, Signal Layers Only, 1.8054mm
+    NetR5_1, Signal Layers Only, 1.5665mm
+    NetU1_1, Signal Layers Only, 5.6773mm
+    NetU1_2, Signal Layers Only, 8.4019mm
+    NetU1_3, Signal Layers Only, 8.3616mm
+    NetU1_4, Signal Layers Only, 5.2934mm
+    NetU1_5, Signal Layers Only, 4.9734mm
+    NetU1_6, Signal Layers Only, 11.5651mm
+    NetU2_10, Signal Layers Only, 11.8901mm
+    NetU2_11, Signal Layers Only, 16.5135mm
+    NetU2_12, Signal Layers Only, 9.3004mm
+    NetU2_13, Signal Layers Only, 8.3961mm
+    OSC IN, Signal Layers Only, 8.6836mm
+    OSC OUT, Signal Layers Only, 4.2589mm
+    RESET, Signal Layers Only, 29.3393mm
+    SWCLK, Signal Layers Only, 11.4701mm
+    SWDIO, Signal Layers Only, 16.717mm
+    USBD_N, Signal Layers Only, 44.8574mm
+    USBD_P, Signal Layers Only, 44.7749mm
+    USB_N, Signal Layers Only, 2.9328mm
+    USB_P, Signal Layers Only, 3.4506mm
+    VDD_PA, Signal Layers Only, 4.2668mm
+count : 57

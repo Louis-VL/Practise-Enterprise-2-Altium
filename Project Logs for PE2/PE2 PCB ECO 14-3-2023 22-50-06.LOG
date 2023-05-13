@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=3.3V Pin=R6-1
+Removed Pin From Net: NetName=BEL Pin=U2-10
+Removed Pin From Net: NetName=LED1 Pin=U2-11
+Removed Pin From Net: NetName=LED2 Pin=U2-12
+Removed Pin From Net: NetName=BUZZ Pin=U2-13
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Removed Pin From Net: NetName=GND Pin=XTAL1-GND
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Removed Pin From Net: NetName=GND Pin=XTAL2-GND
+Change Component Comment : Designator=D6 Old Comment=A New Comment=LED
+Change Component Comment : Designator=D7 Old Comment=B New Comment=LED
+Added Pin To Net: NetName=BEL Pin=U2-2
+Added Pin To Net: NetName=LED1 Pin=U2-15
+Added Pin To Net: NetName=LED2 Pin=U2-16
+Added Pin To Net: NetName=BUZZ Pin=U2-17
+Added Pin To Net: NetName=NetU2_10 Pin=U2-10
+Added Pin To Net: NetName=NetU2_10 Pin=U3-5
+Added Net: Name=NetU2_10
+Added Pin To Net: NetName=NetU2_11 Pin=U2-11
+Added Pin To Net: NetName=NetU2_11 Pin=U3-4
+Added Net: Name=NetU2_11
+Added Pin To Net: NetName=NetU2_12 Pin=U2-12
+Added Pin To Net: NetName=NetU2_12 Pin=U3-8
+Added Net: Name=NetU2_12
+Added Pin To Net: NetName=NetU2_13 Pin=U2-13
+Added Pin To Net: NetName=NetU2_13 Pin=U3-9
+Added Net: Name=NetU2_13
+Added Member To Class: ClassName=U_POWER Member=Component C1 Cf = 1 / (2 × p X R1 × fz)
+Added Member To Class: ClassName=U_POWER Member=Component C2
+Added Member To Class: ClassName=U_POWER Member=Component C3
+Added Member To Class: ClassName=U_POWER Member=Component C4
+Added Member To Class: ClassName=U_POWER Member=Component C5
+Added Member To Class: ClassName=U_MCU Member=Component C16
+Added Member To Class: ClassName=U_MCU Member=Component C17
+Added Member To Class: ClassName=U_MCU Member=Component C18
+Added Member To Class: ClassName=U_MCU Member=Component C19
+Added Member To Class: ClassName=U_MCU Member=Component C20
+Added Member To Class: ClassName=U_MCU Member=Component C21
+Added Member To Class: ClassName=U_MCU Member=Component C22
+Added Member To Class: ClassName=U_MCU Member=Component C23
+Added Member To Class: ClassName=U_POWER Member=Component C24
+Added Member To Class: ClassName=U_POWER Member=Component C25
+Added Member To Class: ClassName=U_MCU Member=Component C26
+Added Member To Class: ClassName=U_POWER Member=Component D1
+Added Member To Class: ClassName=U_POWER Member=Component D2 USBLC6-2SC6
+Added Member To Class: ClassName=U_POWER Member=Component D3
+Added Member To Class: ClassName=U_POWER Member=Component D4
+Added Member To Class: ClassName=U_POWER Member=Component D5
+Added Member To Class: ClassName=U_MCU Member=Component D6 LED
+Added Member To Class: ClassName=U_MCU Member=Component D7 LED
+Added Member To Class: ClassName=U_POWER Member=Component D8 LED
+Added Member To Class: ClassName=U_POWER Member=Component D9 LED
+Added Member To Class: ClassName=U_POWER Member=Component FB1 BLM18PG121SN1D
+Added Member To Class: ClassName=U_POWER Member=Component J1 USB B micro
+Added Member To Class: ClassName=U_POWER Member=Component J2 3 pin header
+Added Member To Class: ClassName=U_POWER Member=Component L4
+Added Member To Class: ClassName=U_MCU Member=Component LS1 Buzzer
+Added Member To Class: ClassName=U_POWER Member=Component P1 Solar
+Added Member To Class: ClassName=U_MCU Member=Component P3 Header 3X2
+Added Member To Class: ClassName=U_MCU Member=Component Q1 NPN
+Added Member To Class: ClassName=U_POWER Member=Component R1 R1 = R2 × (VOUT/1.23 - 1) 
+Added Member To Class: ClassName=U_POWER Member=Component R2
+Added Member To Class: ClassName=U_POWER Member=Component R3
+Added Member To Class: ClassName=U_MCU Member=Component R7
+Added Member To Class: ClassName=U_MCU Member=Component R8
+Added Member To Class: ClassName=U_MCU Member=Component R9
+Added Member To Class: ClassName=U_POWER Member=Component R10
+Added Member To Class: ClassName=U_MCU Member=Component R11
+Added Member To Class: ClassName=U_POWER Member=Component R12
+Added Member To Class: ClassName=U_MCU Member=Component R13
+Added Member To Class: ClassName=U_MCU Member=Component R14
+Added Member To Class: ClassName=U_POWER Member=Component R15
+Added Member To Class: ClassName=U_POWER Member=Component R18
+Added Member To Class: ClassName=U_MCU Member=Component S1
+Added Member To Class: ClassName=U_MCU Member=Component U2 STM32F301C8T6TR
+Added Member To Class: ClassName=U_POWER Member=Component U3 CH340E
+Added Member To Class: ClassName=U_POWER Member=Component VR1 LM2731YMF
+Added Member To Class: ClassName=U_POWER Member=Component VR2 XC6804A3E1QR-G
+Added Member To Class: ClassName=U_MCU Member=Component XTAL2 32Mhz

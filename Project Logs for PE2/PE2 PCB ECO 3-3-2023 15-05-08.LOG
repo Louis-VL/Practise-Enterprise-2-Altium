@@ -1,0 +1,92 @@
+Change Component Designator: OldDesignator=ANT300 NewDesignator=ANT1
+Change Component Designator: OldDesignator=C100 NewDesignator=C1
+Change Component Designator: OldDesignator=C101 NewDesignator=C2
+Change Component Designator: OldDesignator=C102 NewDesignator=C3
+Change Component Designator: OldDesignator=C103 NewDesignator=C4
+Change Component Designator: OldDesignator=C104 NewDesignator=C5
+Change Component Designator: OldDesignator=C200 NewDesignator=C16
+Change Component Designator: OldDesignator=C201 NewDesignator=C17
+Change Component Designator: OldDesignator=C202 NewDesignator=C18
+Change Component Designator: OldDesignator=C203 NewDesignator=C19
+Change Component Designator: OldDesignator=C204 NewDesignator=C22
+Change Component Designator: OldDesignator=C205 NewDesignator=C20
+Change Component Designator: OldDesignator=C206 NewDesignator=C21
+Change Component Designator: OldDesignator=C208 NewDesignator=C23
+Change Component Designator: OldDesignator=C300 NewDesignator=C6
+Change Component Designator: OldDesignator=C301 NewDesignator=C7
+Change Component Designator: OldDesignator=C302 NewDesignator=C8
+Change Component Designator: OldDesignator=C303 NewDesignator=C9
+Change Component Designator: OldDesignator=C304 NewDesignator=C10
+Change Component Designator: OldDesignator=C305 NewDesignator=C11
+Change Component Designator: OldDesignator=C306 NewDesignator=C12
+Change Component Designator: OldDesignator=C307 NewDesignator=C13
+Change Component Designator: OldDesignator=C308 NewDesignator=C14
+Change Component Designator: OldDesignator=C309 NewDesignator=C15
+Change Component Designator: OldDesignator=D100 NewDesignator=D1
+Change Component Designator: OldDesignator=D101 NewDesignator=D2
+Change Component Designator: OldDesignator=D102 NewDesignator=D3
+Change Component Designator: OldDesignator=D103 NewDesignator=D4
+Change Component Designator: OldDesignator=D104 NewDesignator=D5
+Change Component Designator: OldDesignator=D200 NewDesignator=D6
+Change Component Designator: OldDesignator=D201 NewDesignator=D7
+Change Component Designator: OldDesignator=FB100 NewDesignator=FB1
+Change Component Designator: OldDesignator=J100 NewDesignator=J1
+Change Component Designator: OldDesignator=J101 NewDesignator=J2
+Change Component Designator: OldDesignator=L300 NewDesignator=L1
+Change Component Designator: OldDesignator=L301 NewDesignator=L2
+Change Component Designator: OldDesignator=L302 NewDesignator=L3
+Change Component Designator: OldDesignator=LS200 NewDesignator=LS1
+Change Component Designator: OldDesignator=P100 NewDesignator=P1
+Change Component Designator: OldDesignator=P200 NewDesignator=P3
+Change Component Designator: OldDesignator=P300 NewDesignator=P2
+Change Component Designator: OldDesignator=Q200 NewDesignator=Q1
+Change Component Designator: OldDesignator=R100 NewDesignator=R1
+Change Component Designator: OldDesignator=R101 NewDesignator=R2
+Change Component Designator: OldDesignator=R102 NewDesignator=R3
+Change Component Designator: OldDesignator=R200 NewDesignator=R6
+Change Component Designator: OldDesignator=R201 NewDesignator=R7
+Change Component Designator: OldDesignator=R202 NewDesignator=R8
+Change Component Designator: OldDesignator=R203 NewDesignator=R12
+Change Component Designator: OldDesignator=R206 NewDesignator=R9
+Change Component Designator: OldDesignator=R207 NewDesignator=R10
+Change Component Designator: OldDesignator=R208 NewDesignator=R11
+Change Component Designator: OldDesignator=R300 NewDesignator=R4
+Change Component Designator: OldDesignator=R301 NewDesignator=R5
+Change Component Designator: OldDesignator=S202 NewDesignator=S1
+Change Component Designator: OldDesignator=SB300 NewDesignator=SB1
+Change Component Designator: OldDesignator=U200 NewDesignator=U2
+Change Component Designator: OldDesignator=U300 NewDesignator=U1
+Change Component Designator: OldDesignator=VR100 NewDesignator=VR1
+Change Component Designator: OldDesignator=VR101 NewDesignator=VR2
+Change Component Designator: OldDesignator=XTAL200 NewDesignator=XTAL2
+Change Component Designator: OldDesignator=XTAL300 NewDesignator=XTAL1
+Change Net Name : Old Net Name=NetANT300_1 New Net Name=NetANT1_1
+Change Net Name : Old Net Name=NetC102_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC303_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC304_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC305_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC306_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetD100_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD101_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD101_3 New Net Name=NetD2_3
+Change Net Name : Old Net Name=NetD101_4 New Net Name=NetD2_4
+Change Net Name : Old Net Name=NetD101_6 New Net Name=NetD2_6
+Change Net Name : Old Net Name=NetD102_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD104_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD200_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD201_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetFB100_1 New Net Name=NetFB1_1
+Change Net Name : Old Net Name=NetJ101_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetLS200_2 New Net Name=NetLS1_2
+Change Net Name : Old Net Name=NetQ200_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetR101_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR102_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR301_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetU200_25 New Net Name=NetU1_2
+Change Net Name : Old Net Name=NetU200_26 New Net Name=NetU1_3
+Change Net Name : Old Net Name=NetU200_27 New Net Name=NetU1_5
+Change Net Name : Old Net Name=NetU200_28 New Net Name=NetU1_4
+Change Net Name : Old Net Name=NetU200_29 New Net Name=NetU1_1
+Change Net Name : Old Net Name=NetU200_30 New Net Name=NetU1_6
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Net: Name=NetP2_1

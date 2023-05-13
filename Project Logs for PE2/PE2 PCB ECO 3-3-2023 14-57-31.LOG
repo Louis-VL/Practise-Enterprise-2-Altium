@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=C207-1
+Removed Pin From Net: NetName=RESET Pin=C207-2
+Removed Pin From Net: NetName=3.3V Pin=R204-1
+Removed Pin From Net: NetName=RESET Pin=R204-2
+Removed Pin From Net: NetName=3.3V Pin=R205-1
+Removed Pin From Net: NetName=BOOT Pin=R205-2
+Removed Pin From Net: NetName=RESET Pin=S200-1
+Removed Pin From Net: NetName=GND Pin=S200-4
+Removed Pin From Net: NetName=BOOT Pin=S201-1
+Removed Pin From Net: NetName=GND Pin=S201-4
+Removed Member From Class: ClassName=U_MCU Member=C207
+Removed Member From Class: ClassName=U_MCU Member=R204
+Removed Member From Class: ClassName=U_MCU Member=R205
+Removed Member From Class: ClassName=U_MCU Member=S200
+Removed Member From Class: ClassName=U_MCU Member=S201
+Change Component Description : Designator=VR100 Old Description=AP2112K-3.3TRG1 New Description=AP2112K-3.3TRG1 | 3.3V LDO | 2.5V — 13.2V

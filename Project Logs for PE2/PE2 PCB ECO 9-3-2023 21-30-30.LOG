@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=L4 Old Footprint=INDC4532 New Footprint=INDP7373X45N
+Added Member To Class: ClassName=U_POWER Member=Component C1 Cf = 1 / (2 × p X R1 × fz)
+Added Member To Class: ClassName=U_POWER Member=Component C2
+Added Member To Class: ClassName=U_POWER Member=Component C3
+Added Member To Class: ClassName=U_POWER Member=Component D3
+Added Member To Class: ClassName=U_POWER Member=Component R1 R1 = R2 × (VOUT/1.23 - 1) 
+Added Member To Class: ClassName=U_POWER Member=Component R2
+Added Member To Class: ClassName=U_POWER Member=Component R12
+Added Member To Class: ClassName=U_POWER Member=Component VR1 LM2731YMF
